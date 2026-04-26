@@ -92,10 +92,6 @@ facility_risky = FacilityWithTrust(
 
 ## 📊 Interactive Dashboard
 
-**Live Dashboard**: [GeoHealth AI Dashboard](https://dbc-e0fc8f30-3172.cloud.databricks.com/dashboardsv3/01f1412a2f33149db5181d90d05749b2/published?o=7474656684272333)
-
-Screenshots available in `/dashboard/screenshots/`
-
 ### Dashboard Features:
 - **4 KPI Cards**: Total facilities, avg trust score, flagged count, states without ICU
 - **Trust Distribution**: Pie chart showing quality breakdown
@@ -168,7 +164,7 @@ GeoHealth-AI/
 
 MIT License - See [LICENSE](LICENSE) file
 
-## 👥 Author
+## 👥 Author: wincarf
 
 Created for India Health Intelligence Hackathon 2026
 
