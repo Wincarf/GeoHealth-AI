@@ -1,0 +1,19 @@
+# GeoHealth AI - Interactive Dashboard
+
+## Public Dashboard URL:
+https://dbc-e0fc8f30-3172.cloud.databricks.com/dashboardsv3/01f1412a2f33149db5181d90d05749b2/published?o=7474656684272333&f_9d33365f%7Etrust_distribution=%257B%2522columns%2522%253A%255B%2522color%2522%255D%252C%2522rows%2522%253A%255B%255B%2522Excellent%2520%2895-100%29%2522%255D%255D%257D
+
+## Dashboard Features:
+- 4 KPI Cards (Total facilities, Trust score, Flagged count, States without ICU)
+- Trust Score Distribution (Pie chart)
+- Top 5 Priority States (Dual-axis bar chart)
+- ICU Desert Score by State (Bar chart - 36 states)
+- Facilities with Red Flags (Table with top 20)
+
+## Access:
+- Requires Databricks workspace access
+- Viewers use their own credentials
+- For hackathon demo: Share screen with dashboard open
+
+## Screenshots:
+Available in /dashboard/screenshots/ folder
