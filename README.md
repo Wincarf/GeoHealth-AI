@@ -5,7 +5,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-v2-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**Hackathon Project** | Reducing time between "discovering where to go" and "receiving care"
+**Hackathon Project for MIT** | Reducing time between "discovering where to go" and "receiving care"
 
 ## 🎯 Problem
 
