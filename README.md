@@ -166,7 +166,7 @@ MIT License - See [LICENSE](LICENSE) file
 
 ## 👥 Author: wincarf
 
-Created for India Health Intelligence Hackathon 2026
+Created for Hack Nation MIT 2026
 
 **GitHub**: [@Wincarf](https://github.com/Wincarf)  
 **Project**: [GeoHealth AI](https://github.com/Wincarf/GeoHealth-AI)
